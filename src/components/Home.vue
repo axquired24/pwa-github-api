@@ -21,7 +21,7 @@
     name: 'hello',
     data () {
       return {
-        msg: 'VueJS PWA consuming Github API',
+        msg: 'Github Username Search',
         username: '',
         user: null
       }
